@@ -1,0 +1,26 @@
+.firstDiv{
+    color: blue;
+}
+.secondDiv{
+    color: red;
+}
+#singledout{
+    color: green;
+    text-decoration: line-through;
+}
+*{
+    /* every element except ids */
+    color: rgb(231, 20, 20);
+}
+h3 + ul{
+    /* any unordered list after h3 */
+    border: 4px dotted purple;
+}
+li a{
+    color: red;
+}
+li a[href = "www.npr.org"]{
+    color: blue;
+    border: orange 5px solid;
+}
+/* id suprcede class supercede general tag */

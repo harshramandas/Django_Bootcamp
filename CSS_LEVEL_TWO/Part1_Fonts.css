@@ -1,0 +1,31 @@
+h1{
+    font-family: "Arial";
+}
+
+/* p{
+    font-family: monospace;
+} */
+
+body{
+    font-size: 20px;
+}
+
+#two{
+    font-size: 1em;
+}
+
+/* p{
+    font-style: italic;
+    font-weight: bold;
+} */
+p{
+    font-family: 'Beth Ellen', cursive;
+}
+
+h1{
+    text-align: center;    
+}
+/* https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS */
+/* https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows */
+/* https://www.cssfontstack.com/ */
+/* coolors.co */

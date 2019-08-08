@@ -1,0 +1,30 @@
+/* selected tag {
+    property : value;
+} */
+h1{
+    color: red; /* use color picker */
+}
+li{
+    color: rgb(255, 97, 0);
+}
+p{
+    color: #133ab8;
+}
+h4{
+    /* alpha = 0 is transparent 1 is opaque*/
+    color: rgba(150,0,0,1); 
+}
+body{
+    background: url(django.png);
+    background-repeat: no-repeat;
+}
+div{
+    background: rgba(182, 21, 21, 0.767);
+    border-color: rgba(0,0,100,0.7);
+    border-width: 10px; /*thick*/
+    border-style: dotted;
+}
+span{
+    background: #ff0000;
+    color: rgb(223, 247, 9);
+}

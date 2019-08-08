@@ -1,0 +1,25 @@
+body{
+    background-color: #011d33;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Lacquer', sans-serif;
+    border: #09b2b8 solid 100px;
+    border-top: 0px;
+}
+p{
+    padding: 5% 20% 0% 20%;
+}
+form{
+    font-size: 1.5em;
+    margin: 10px;
+}
+#submit{
+    background-color: coral;
+    height: 80px;
+    width: 100px;
+    margin: 4px;
+    margin-top: 10px;
+    font-size: 0.7em;
+    border-radius: 25px;
+    text-align: center;
+}
